@@ -75,3 +75,39 @@
 .marginClass{
     margin-bottom:15% !important;
 }
+.bg-light{
+    background-color: #FFF !important;
+}
+.shadow-md{
+    -webkit-box-shadow: 0px 0px 50px -35px rgba(0, 0, 0, 0.4);
+    box-shadow: 0px 0px 50px -35px rgba(0, 0, 0, 0.4);
+}
+.rounded{
+    border-radius: .25rem!important;
+}
+.p-4{
+    padding: 1.5rem!important;
+}
+.align-items-center{
+    align-items: center!important;
+}
+.special{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.m-0{
+    margin:0 !important;
+}
+.d-flex{
+    display: flex!important;
+}
+.text-dark{
+    color: #343a40!important;
+}
+.mr-1{
+    margin-right: .25rem !important;
+}
+.text-md-right{
+    text-align: right!important;
+}
